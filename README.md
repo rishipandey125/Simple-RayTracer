@@ -3,7 +3,7 @@ RayTracer built from scratch in C++ implementing phong shading and shadows on sp
 
 ![Cover](/imgs/cover.png)
 
-# Cartesian Coordinate System, Sphere Objects, Point Lights && Shading
+# Cartesian Coordinate System, Sphere Objects, Point Lights and Shading
 Sphere objects and point lights can move along the xyz axes.
 +x -> moving right,
 +y -> moving up,
