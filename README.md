@@ -26,7 +26,7 @@ The (width,height,depth) of the scene is (1500,1000,-1500).
 ![b1](/imgs/b1.png)
 
 # Transforming Spheres
-We can make this scene more interesting by raising two spheres, and casting more shadows, so let's do it! 
+We can make this scene more interesting by raising two spheres, and casting more shadows. 
 This next render has the teal and red spheres shrinking by 25% and moving up 200 units. 
 
 ![b2](/imgs/b2.png)
@@ -35,12 +35,12 @@ Yay! However, it is hard to see the orange sphere as it is cast in the shadow of
 
 ![b3](/imgs/b3.png)
 
-Just for the heck of it let's move the blue sphere back some more in the scene, about 600 units.
+Let's move the blue sphere back some more in the scene, about 600 units.
 
 ![b4](/imgs/b4.png)
 
-Wowza. Lastly for fun we can add another point light to the scene to increase the brightness of each sphere and create some more complex shadows. Second point light at (900,800,400).
+Lastly for fun we can add another point light to the scene to increase the brightness of each sphere and create some more complex shadows. Second point light at (900,800,400).
 
 ![b5](/imgs/b5.png)
 
-Cool stuff! Excited to add more to this project (animations, reflections, etc.) and learn more about building a career in film and animation. 
+Cool stuff! Excited to add more to this project (animations, reflections, shaders etc.) and learn more about building a career in film and animation. 
