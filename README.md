@@ -1,5 +1,5 @@
 # RayTracer
-RayTracer built from scratch in C++ implementing phong shading and shadows on spheres. I developed this project to build my understanding of computer graphics in film. 
+RayTracer built from scratch in C++ implementing phong shading and shadows on spheres. I developed this project to learn more about computer graphics in film. 
 
 ![Cover](/imgs/cover.png)
 
