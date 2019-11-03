@@ -13,12 +13,6 @@ Point lights are represented as a point object.
 Shading of the spheres is done using the phong shading model where ks = 0.2 and n = 200 for specular lighting. These values can be modified based on the desired look.
 Shadows are calculated using the discriminant method. 
 
-![a1](/imgs/a1.png)
-
-Multiple lights can be added to the scene as displayed in this render.
-
-![a2](/imgs/a2.png)
-
 # More Complex Scene
 Let's add a few more spheres to create a more complex scene. The spheres in this scene all have the same radius, but differ in depth. The point light in this scene is left of the front center sphere at point (600,800,400).
 The (width,height,depth) of the scene is (1500,1000,-1500).
