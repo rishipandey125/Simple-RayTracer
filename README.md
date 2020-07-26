@@ -1,5 +1,5 @@
-# RayTracer
-RayTracer built from scratch in C++ implementing phong shading and shadows on spheres. I developed this project to learn more about computer graphics in film. 
+# Simple RayTracer
+Simple raytracer built from scratch in C++ implementing phong shading and shadows on spheres. I developed this project to learn more about computer graphics in film. 
 
 ![Cover](/imgs/cover.png)
 
@@ -37,4 +37,4 @@ Lastly for fun we can add another point light to the scene to increase the brigh
 
 ![b5](/imgs/b5.png)
 
-Cool stuff! Excited to add more to this project (animations, reflections, shaders etc.) and learn more about building a career in film and animation. 
+Cool stuff! Excited to learn more about building a career in film and animation. 
